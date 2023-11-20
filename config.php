@@ -1,5 +1,5 @@
 <?php
-    defined("_AS") or die("Access denied!");
+    // location is Tehran/Iran
 	date_default_timezone_set('Asia/Tehran');
 
     define('DB_HOST','localhost');
